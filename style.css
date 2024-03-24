@@ -1,0 +1,30 @@
+    body {
+        font-family: Arial, sans-serif;
+    }
+    #taskInput {
+        width: 70%;
+        padding: 8px;
+        margin-bottom: 10px;
+    }
+    #addButton {
+        padding: 8px 15px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    #tasks {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 5px;
+    }
+    .removeButton {
+        padding: 5px 10px;
+        background-color: #f44336;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin-left: 5px;
+    }
